@@ -54,7 +54,7 @@ The system not only predicts risk but also provides explanations and safety reco
 ## 📸 Demo
 
 ### 🔹 Input Page
-![Input Page](images/input.png)
+![Input Page](input1.png)
 
 ### 🔹 Result Page
 ![Result Page](images/result.png)
